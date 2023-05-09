@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add new YOLOv8 OBB model metrics (#7379)
