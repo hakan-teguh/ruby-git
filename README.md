@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Resize angle, count, and stage on keypoint number change (#7598)
