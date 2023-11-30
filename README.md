@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+fix yolo classify model loading error (#9196)
